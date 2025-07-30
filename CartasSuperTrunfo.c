@@ -30,9 +30,9 @@ int main(){
     printf("Carta 2 \n");
 
     int POPULACAO = 5000;
-    char ESTADO[R];
+    char ESTADO['R'];
     float AREA = 1536;
-    float PIB = 891000;
+    float Pib = 891000;
     int PONTOTURISTICO = 70;
 
     printf("Digite a populacao: \n");
@@ -45,7 +45,7 @@ int main(){
     scanf("%f", &AREA);
 
     printf("Digite o pib: \n");
-    scanf("%f", &PIB);
+    scanf("%f", &Pib);
 
     printf("Digite o Ponto Turistico: \n");
     scanf("%d", &PONTOTURISTICO);
