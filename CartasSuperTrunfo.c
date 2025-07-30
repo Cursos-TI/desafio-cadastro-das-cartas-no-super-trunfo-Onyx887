@@ -4,7 +4,7 @@ int main(){
     printf("Carta1 \n");
 
     int Populacao = 15000000;
-    char Estado[B]; 
+    char Estado['B']; 
     float Area = 3589000;
     float PIB = 87000000;
     int PontoTuristico = 50;
@@ -26,7 +26,7 @@ int main(){
 
     printf("População: %d - Estado: %s\n", Populacao, Estado);
     printf("Area: %f - PIB: %f\n", Area, PIB);
-    prinft("Ponto Turístico %d\n", PontoTuristico);
+    printf("Ponto Turístico %d\n", PontoTuristico);
 
 
 
@@ -56,7 +56,7 @@ int main(){
 
     printf("População: %d - Estado: %s\n", POPULACAO, ESTADO);
     printf("Area: %f - PIB: %f\n", AREA, Pib);
-    prinft("Ponto Turístico %d\n", PONTOTURISTICO);
+    printf("Ponto Turístico %d\n", PONTOTURISTICO);
 
     return 0;
     
