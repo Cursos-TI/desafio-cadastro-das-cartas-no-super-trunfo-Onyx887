@@ -24,6 +24,10 @@ int main(){
     printf("Digite o ponto turistico: \n");
     scanf("%d", &PontoTuristico);
 
+    printf("População: %d - Estado: %s", Populacao, Estado);
+    printf("Area: %f - PIB: %f", Area, PIB);
+    prinft("Ponto Turístico %d", PontoTuristico);
+
 
 
 
@@ -49,6 +53,10 @@ int main(){
 
     printf("Digite o Ponto Turistico: \n");
     scanf("%d", &PONTOTURISTICO);
+
+    printf("População: %d - Estado: %s", POPULACAO, ESTADO);
+    printf("Area: %f - PIB: %f", AREA, Pib);
+    prinft("Ponto Turístico %d", PONTOTURISTICO);
 
     return 0;
     
